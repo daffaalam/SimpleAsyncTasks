@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <pattern value="com.daffaalam.example.simpleasynctasks.ExampleUnitTest" method="addition_isCorrect" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.CreatedBy" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.ExampleInstrumentedTest" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.ExampleUnitTest" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="getAverageRating" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" method="getBackdropPath" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="getBackdropPath" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="getComments" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="getCreatedBy" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="getDescription" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" method="getGenreIds" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.CreatedBy" method="getGravatarHash" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.CreatedBy" method="getId" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" method="getId" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="getId" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="getIso31661" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="getIso6391" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" method="getMediaType" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie100402" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie100402" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie10138" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie10138" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie10195" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie10195" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie102382" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie102382" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie102899" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie102899" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie10658" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie10658" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie118340" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie118340" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie1250" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie1250" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie127585" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie127585" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie13056" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie13056" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie13995" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie13995" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie166424" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie166424" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie1724" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie1724" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie1726" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie1726" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie1771" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie1771" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie1927" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie1927" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie1930" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie1930" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie1979" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie1979" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie2080" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie2080" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie22059" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie22059" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie24428" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie24428" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie246655" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie246655" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie263115" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie263115" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie271110" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie271110" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie283995" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie283995" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie284052" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie284052" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie284053" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie284053" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie293660" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie293660" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie315635" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie315635" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie36586" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie36586" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie36647" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie36647" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie36648" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie36648" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie36657" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie36657" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie36658" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie36658" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie36668" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie36668" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie49538" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie49538" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie557" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie557" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie558" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie558" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie559" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie559" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie68721" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie68721" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie71676" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie71676" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie7220" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie7220" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie76170" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie76170" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie76338" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie76338" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie8867" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie8867" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie9480" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie9480" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie9738" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie9738" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie9947" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie9947" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="getMovie99861" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="getMovie99861" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.CreatedBy" method="getName" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="getName" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="getObjectIds" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" method="getOriginalLanguage" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" method="getOriginalTitle" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" method="getOverview" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="getPage" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" method="getPopularity" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" method="getPosterPath" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="getPosterPath" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" method="getReleaseDate" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="getResults" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="getRevenue" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="getRuntime" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="getSortBy" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" method="getTitle" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="getTotalPages" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="getTotalResults" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.CreatedBy" method="getUsername" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" method="getVoteAverage" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" method="getVoteCount" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.MainActivity" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" method="isAdult" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="isJsonMemberPublic" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" method="isVideo" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" method="setAdult" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="setAverageRating" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" method="setBackdropPath" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="setBackdropPath" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="setComments" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="setCreatedBy" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="setDescription" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" method="setGenreIds" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.CreatedBy" method="setGravatarHash" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" method="setId" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="setId" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.CreatedBy" method="setId" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="setIso31661" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="setIso6391" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="setJsonMemberPublic" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" method="setMediaType" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie100402" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie100402" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie10138" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie10138" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie10195" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie10195" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie102382" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie102382" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie102899" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie102899" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie10658" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie10658" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie118340" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie118340" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie1250" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie1250" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie127585" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie127585" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie13056" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie13056" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie13995" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie13995" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie166424" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie166424" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie1724" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie1724" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie1726" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie1726" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie1771" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie1771" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie1927" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie1927" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie1930" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie1930" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie1979" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie1979" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie2080" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie2080" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie22059" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie22059" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie24428" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie24428" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie246655" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie246655" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie263115" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie263115" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie271110" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie271110" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie283995" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie283995" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie284052" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie284052" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie284053" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie284053" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie293660" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie293660" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie315635" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie315635" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie36586" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie36586" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie36647" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie36647" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie36648" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie36648" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie36657" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie36657" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie36658" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie36658" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie36668" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie36668" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie49538" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie49538" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie557" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie557" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie558" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie558" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie559" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie559" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie68721" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie68721" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie71676" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie71676" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie7220" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie7220" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie76170" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie76170" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie76338" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie76338" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie8867" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie8867" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie9480" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie9480" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie9738" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie9738" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie9947" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie9947" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.Comments" method="setMovie99861" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ObjectIds" method="setMovie99861" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.CreatedBy" method="setName" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="setName" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="setObjectIds" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" method="setOriginalLanguage" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" method="setOriginalTitle" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" method="setOverview" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="setPage" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" method="setPopularity" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" method="setPosterPath" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="setPosterPath" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" method="setReleaseDate" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="setResults" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="setRevenue" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="setRuntime" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="setSortBy" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" method="setTitle" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="setTotalPages" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.RootListMovieDB" method="setTotalResults" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.CreatedBy" method="setUsername" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" method="setVideo" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" method="setVoteAverage" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.model.ResultsItem" method="setVoteCount" />
+    <pattern value="com.daffaalam.example.simpleasynctasks.ExampleInstrumentedTest" method="useAppContext" />
+  </component>
+  <component name="NullableNotNullManager">
+    <option name="myDefaultNullable" value="android.support.annotation.Nullable" />
+    <option name="myDefaultNotNull" value="android.support.annotation.NonNull" />
+    <option name="myNullables">
+      <value>
+        <list size="7">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.Nullable" />
+          <item index="1" class="java.lang.String" itemvalue="javax.annotation.Nullable" />
+          <item index="2" class="java.lang.String" itemvalue="javax.annotation.CheckForNull" />
+          <item index="3" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.Nullable" />
+          <item index="4" class="java.lang.String" itemvalue="android.support.annotation.Nullable" />
+          <item index="5" class="java.lang.String" itemvalue="androidx.annotation.Nullable" />
+          <item index="6" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNullable" />
+        </list>
+      </value>
+    </option>
+    <option name="myNotNulls">
+      <value>
+        <list size="6">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.NotNull" />
+          <item index="1" class="java.lang.String" itemvalue="javax.annotation.Nonnull" />
+          <item index="2" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.NonNull" />
+          <item index="3" class="java.lang.String" itemvalue="android.support.annotation.NonNull" />
+          <item index="4" class="java.lang.String" itemvalue="androidx.annotation.NonNull" />
+          <item index="5" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNonNull" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
